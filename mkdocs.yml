@@ -37,6 +37,8 @@ copyright: Copyright &copy; 2007 - 2021 Medjed.com
 theme:
   name: null
   custom_dir: material
+  feature:
+    tabs: true
 
   # 404 page
   static_templates:
@@ -119,8 +121,8 @@ markdown_extensions:
   - pymdownx.critic
   - pymdownx.details
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:pymdownx.emoji.twemoji
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
   - pymdownx.highlight
   - pymdownx.inlinehilite
   - pymdownx.keys
