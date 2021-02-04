@@ -28,7 +28,7 @@ site_description: >-
 # Repository
 repo_name: medjedcom/medjed
 repo_url: https://github.com/medjedcom/medjed
-edit_uri: ""
+edit_uri: "#root/path/docs/"
 
 # Copyright
 copyright: Copyright &copy; 2007 - 2021 Medjed.com
