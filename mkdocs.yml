@@ -90,13 +90,13 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/kikuzukikai
+      link: https://github.com/medjedcom
 #   - icon: fontawesome/brands/gitter
 #     link: https://gitter.im/squidfunk/mkdocs-material
 #   - icon: fontawesome/brands/docker
 #     link: https://hub.docker.com/r/squidfunk/mkdocs-material/
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/kikuzukikai
+      link: https://twitter.com/medjedcom
 #   - icon: fontawesome/brands/linkedin
 #     link: https://linkedin.com/in/squidfunk/
 #   - icon: fontawesome/brands/instagram
