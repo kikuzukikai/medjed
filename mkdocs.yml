@@ -22,8 +22,7 @@
 site_name: Medjed.com
 site_url: https://web.medjed.com/
 site_author: Hitoki Horie
-site_description: >-
-  Be a smiter.
+site_description: Be a smiter.
 
 # Repository
 repo_name: medjedcom/medjed
@@ -56,8 +55,8 @@ theme:
     - navigation.tabs
   palette:
     scheme: default
-    primary: indigo
-    accent: indigo
+    primary: white
+    accent: red
   font:
     text: Roboto
     code: Roboto Mono
