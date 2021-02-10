@@ -55,8 +55,8 @@ theme:
     - navigation.tabs
   palette:
     scheme: default
-    primary: red
-    accent: red
+    primary: blue grey
+    accent: blue grey
   font:
     text: Roboto
     code: Roboto Mono
