@@ -4,10 +4,5 @@ title: Home
 ---
 
 # 連絡先
-
-<a href="https://twitter.com/medjedcom">
-  <strong>@medjedcom</strong> on
-  <span class="twemoji twitter">
-    {% include ".icons/fontawesome/brands/twitter.svg" %}
-  </span>
-</a>
+1. [@medjedcom](https://twitter.com/medjedcom) on Twitter
+1. contact@medjed.com
