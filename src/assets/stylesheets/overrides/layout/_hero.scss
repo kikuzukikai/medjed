@@ -33,7 +33,7 @@
       to bottom,
       var(--md-primary-fg-color),
       hsla(280, 67%, 55%, 1) 99%,
-      var(--md-default-bg-color) 99%
+      var(--md-accent-fg-color) 99%
     );
 
   // Adjust background for slate theme
@@ -44,7 +44,7 @@
         to bottom,
         var(--md-primary-fg-color),
         hsla(280, 67%, 55%, 1) 99%,
-        var(--md-default-bg-color) 99%
+        var(--md-accent-fg-color) 99%
       );
   }
 }
