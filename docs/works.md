@@ -1,3 +1,7 @@
+---
+template: overrides/main.html
+title: 制作実績
+---
 # 制作実績
 
 ## サイト
