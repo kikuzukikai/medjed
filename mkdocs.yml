@@ -143,7 +143,10 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Home: index.md
+  - ホーム: index.md
+    - 概要: overview.md
+    - 制作実績: works.md
+    - 連絡先: contact.md
 # - Getting started:
 #   - Installation: getting-started.md
 #   - Creating your site: creating-your-site.md
