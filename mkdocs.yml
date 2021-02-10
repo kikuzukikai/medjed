@@ -67,8 +67,9 @@ theme:
 # Plugins
 plugins:
   - search
-# - redirects:
-#     redirect_maps:
+  - redirects:
+      redirect_maps:
+        index.md: overview.md
 #       extensions/admonition.md: reference/admonitions.md
 #       extensions/codehilite.md: reference/code-blocks.md
 #       extensions/footnotes.md: reference/footnotes.md
