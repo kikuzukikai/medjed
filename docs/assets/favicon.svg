@@ -8,10 +8,10 @@
         stroke: #fff;
       }
     }
-  </style>
-  <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="50">
-    <path d="M508 496h-95l-55 79-58-79-58 79-55-79H92l35-299c11-96 76-171 172-171s163 75 174 171z"/>
-    <path d="M225 240v-51"/>
-    <path d="M375 240v-51"/>
+  </style>  
+  <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="50">
+    <path d="m508 496h-95l-55 79-58-79-58 79-55-79h-95l35-299c11-96 76-171 172-171s163 75 174 171z"/>
+    <path d="m242 240v-51"/>
+    <path d="m358 240v-51"/>
   </g>
 </svg>
