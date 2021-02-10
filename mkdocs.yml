@@ -56,7 +56,7 @@ theme:
   palette:
     scheme: default
     primary: white
-    accent: white
+    accent: indigo
   font:
     text: Roboto
     code: Roboto Mono
