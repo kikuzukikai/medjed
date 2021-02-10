@@ -1,4 +1,4 @@
 ---
-template: overrides/.html
+template: overrides/home.html
 title: 
 ---
