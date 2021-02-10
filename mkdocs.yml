@@ -55,8 +55,8 @@ theme:
     - navigation.tabs
   palette:
     scheme: default
-    primary: white
-    accent: white
+    primary: black
+    accent: black
   font:
     text: Roboto
     code: Roboto Mono
@@ -69,7 +69,6 @@ plugins:
   - search
   - redirects:
       redirect_maps:
-        index.md: overview.md
 #       extensions/admonition.md: reference/admonitions.md
 #       extensions/codehilite.md: reference/code-blocks.md
 #       extensions/footnotes.md: reference/footnotes.md
