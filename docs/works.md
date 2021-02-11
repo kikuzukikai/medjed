@@ -4,7 +4,7 @@ title: 制作実績
 ---
 # 制作実績
 
-## サイト
+## ウェブサイト
 - 菊月保存会[^1]
 - [駆逐艦菊月会](https://www.kikuzukikai.org)
 - [帝國海軍アーカイブ](https://www.ijnarchive.org)
