@@ -48,7 +48,7 @@ theme:
   search_index_only: true
 
   # Default values, taken from mkdocs_theme.yml
-  language: ja
+  language: "ja"
   features:
     # - navigation.instant
     - navigation.sections
@@ -99,7 +99,7 @@ plugins:
 # Customization
 extra:
   search:
-    language: ja
+    language: "ja"
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/medjedcom
@@ -127,7 +127,7 @@ markdown_extensions:
   - meta
   - md_in_html
   - toc:
-      permalink: true
+      permalink: "#"
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.betterem:
