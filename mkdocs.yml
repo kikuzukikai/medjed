@@ -98,6 +98,8 @@ plugins:
 
 # Customization
 extra:
+  search:
+    language: ja
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/medjedcom
@@ -111,6 +113,9 @@ extra:
 #     link: https://linkedin.com/in/squidfunk/
 #   - icon: fontawesome/brands/instagram
 #     link: https://instagram.com/squidfunk
+
+extra_css:
+    - assets/stylesheets/extra.css
 
 # Extensions
 markdown_extensions:
