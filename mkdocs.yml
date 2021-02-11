@@ -55,8 +55,8 @@ theme:
     - navigation.tabs
   palette:
     - scheme: default
-      primary: indigo
-      accent: indigo
+      primary: deep-orange
+      accent: deep-orange
   font:
     text: Roboto
     code: Roboto Mono
