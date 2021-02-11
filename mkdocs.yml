@@ -50,13 +50,13 @@ theme:
   # Default values, taken from mkdocs_theme.yml
   language: ja
   features:
-    # - navigation.instant
+  # - navigation.instant
     - navigation.sections
     - navigation.tabs
   palette:
     - scheme: default
-      primary: deep purple
-      accent: deep purple
+      primary: black
+      accent: indigo
   font:
     text: Roboto
     code: Roboto Mono
@@ -117,7 +117,7 @@ markdown_extensions:
   - meta
   - md_in_html
   - toc:
-      permalink: "#"
+      permalink: true
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.betterem:
