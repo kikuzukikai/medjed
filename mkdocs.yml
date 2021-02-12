@@ -146,7 +146,7 @@ markdown_extensions:
 # Page tree
 nav:
   - Be a smiter.: index.md
-  - 概要: overview.md
+  - 価格表: price.md
   - 制作実績: works.md
   - 連絡先: contact.md
 # - Getting started:
