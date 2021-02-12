@@ -69,7 +69,6 @@ plugins:
   - search
   - redirects:
       redirect_maps:
-        index.md: overview.md
 #       extensions/admonition.md: reference/admonitions.md
 #       extensions/codehilite.md: reference/code-blocks.md
 #       extensions/footnotes.md: reference/footnotes.md
@@ -149,7 +148,7 @@ markdown_extensions:
 
 # Page tree
 nav:
-# - Home: index.md
+  - 新着情報: index.md
   - 概要: overview.md
   - 制作実績: works.md
   - 連絡先: contact.md
