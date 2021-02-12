@@ -103,9 +103,6 @@ extra:
 #   - icon: fontawesome/brands/instagram
 #     link: https://instagram.com/squidfunk
 
-extra_css:
-    - assets/stylesheets/extra.css
-
 # Extensions
 markdown_extensions:
   - admonition
