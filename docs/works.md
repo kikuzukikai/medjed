@@ -2,7 +2,7 @@
 template: overrides/main.html
 title: 制作実績
 ---
-# 制作実績
+# 制作実績(受注日順)
 
 ## ウェブサイト
 ### 2016年2月
