@@ -1,4 +1,4 @@
-、---
+---
 template: overrides/main.html
 title: 価格表
 ---
