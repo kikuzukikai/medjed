@@ -43,10 +43,10 @@ palette:
 font:
 
   # Default font for text
-  text: Roboto
+  text: Ubuntu
 
   # Fixed-width font for code listings
-  code: Roboto Mono
+  code: Ubuntu Mono
 
 # From Material 5.x on, icons are inlined into the HTML and CSS as SVGs. Some
 # icons that are part of the HTML can be configured and replaced
