@@ -1,5 +1,4 @@
 ---
-template: overrides/main.html
-title: 
+template: overrides/home.html
+title: Be a smiter.
 ---
-# 新着情報
