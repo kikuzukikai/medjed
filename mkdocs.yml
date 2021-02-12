@@ -55,8 +55,8 @@ theme:
     - navigation.tabs
   palette:
     - scheme: default
-      primary: white
-      accent: blue
+      primary: deep orange
+      accent: deep orange
   font:
     text: Ubuntu
     code: Ubuntu Mono
@@ -145,7 +145,7 @@ markdown_extensions:
 
 # Page tree
 nav:
-# - Home: index.md
+  - Be a smiter.: index.md
   - 概要: overview.md
   - 制作実績: works.md
   - 連絡先: contact.md
