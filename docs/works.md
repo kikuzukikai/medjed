@@ -16,6 +16,7 @@ title: 制作実績
 ### 2020年12月
 - [帝國海軍アーカイブ](https://www.ijnarchive.org) 様
 
+### 2021年1月
 - 駆逐艦菊月会 様 [寄付フォーム](https://donate.kikuzukikai.org)
 
 ## ロゴマーク
