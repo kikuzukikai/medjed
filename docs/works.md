@@ -20,5 +20,5 @@ title: 制作実績
 - 駆逐艦菊月会 様 [寄付フォーム](https://donate.kikuzukikai.org)
 
 ## ロゴマーク
-### 2016年2月
-- 一般社団法人 菊月保存会 様「月輪に覗き菊」
+### 2015年12月
+- 菊月プロジェクト 様 [月輪に覗き菊](assets/images/Japanese_Crest_Tsukiwa_Ni_Nozoki_Kiku.svg)
