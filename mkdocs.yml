@@ -75,7 +75,7 @@ theme:
     code: Ubuntu Mono
   favicon: assets/favicon.svg
   icon:
-    logo: assets/favicon.svg
+    logo: logo
     repo: fontawesome/brands/git-alt
 
 # Plugins

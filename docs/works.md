@@ -7,7 +7,7 @@ title: 制作実績
 ## ウェブサイト
 
 ### 2021年03月
-- 駆逐艦菊月会 様 [駆逐艦菊月慰霊碑クラウドファンディングサイト](https://cenotaph-cf.kikuzukikai.org)
+- 駆逐艦菊月会 様 [駆逐艦菊月慰霊碑クラウドファンディング](https://cenotaph-cf.kikuzukikai.org)
 
 ### 2021年01月
 - 駆逐艦菊月会 様 [寄付フォーム](https://donate.kikuzukikai.org)
