@@ -23,8 +23,7 @@ site_name: Medjed.com
 site_url: https://web.medjed.com/
 site_author: Hitoki Horie
 site_description: >-
-  「打ち倒す者であれ」をモットーに掲げ、ベジェ曲線と静的サイトジェネレータの扱いを得意とする技術者集団です。
-  2015年より、個人、法人ともに有料にてのみロゴマークとウェブサイトの制作を承っております。
+  「打ち倒す者であれ」をモットーに、有償にてJekyllテーマのカスタマイズとロゴマークの制作を行っているユニットです。
 
 # Repository
 repo_name: medjedcom/medjed
