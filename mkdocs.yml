@@ -68,14 +68,14 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: ライトモードに切り替える
-      primary: teal
-      accent: teal
+      primary: deep orange
+      accent: deep orange
   font:
     text: Ubuntu
     code: Ubuntu Mono
   favicon: assets/favicon.svg
   icon:
-    logo: logo
+    logo: assets/favicon.svg
     repo: fontawesome/brands/git-alt
 
 # Plugins
