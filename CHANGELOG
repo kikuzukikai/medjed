@@ -1,3 +1,128 @@
+mkdocs-material-7.1.2 (2021-04-18)
+
+  * Fixed #2554: List markers sometimes overlap floated elements
+  * Fixed #2563: Adding a class to a h1 breaks the table of contents
+  * Fixed #2566: Back-to-top button clickable when invisible
+
+mkdocs-material-7.1.1+insiders-2.6.0 (2021-04-11)
+
+  * Stay on page when switching versions
+
+mkdocs-material-7.1.1 (2021-04-10)
+
+  * Fixed #2501: Nested definition lists compound bottom margin
+  * Fixed #2508: Switch extracopyright block to template variable
+  * Fixed #2533: Search (and other parts) not working in Safari <14
+  * Fixed #2538: Visual quirk when opening language selector
+
+mkdocs-material-7.1.0 (2021-03-29)
+
+  * Added support for color palette toggle
+  * Added support for back-to-top button
+  * Added latest release to repository info (GitHub)
+  * Slight facelift of repository info (lighter fonts, spacing and icons)
+
+mkdocs-material-7.0.7+insiders-2.5.0 (2021-03-28)
+
+  * Added support for version warning
+
+mkdocs-material-7.0.7 (2021-03-28)
+
+  * Updated Hungarian translations
+  * Fixed #2466: Docker image not based on latest Python and Alpine
+  * Fixed #2488: Inconsistent header shadow behavior
+  * Fixed #2492: Inline code blocks in admonition titles missing background
+
+mkdocs-material-7.0.6+insiders-2.4.0 (2021-03-20)
+
+  * Added support for custom admonition icons
+  * Fixed #2444: Code block annotations with extra comments have wrong index
+
+mkdocs-material-7.0.6+insiders-2.3.1 (2021-03-14)
+
+  * Fixed anchor offset for permalinks when using sticky navigation tabs
+
+mkdocs-material-7.0.6 (2021-03-14)
+
+  * Added trailing slash to version selector URL
+  * Added support for out-of-order anchors in table of contents
+  * Added extra.homepage option to link logo to arbitrary URL
+  * Improved security of Docker image (always update apk)
+  * Fixed horizontal spacing for nested inline admonitions
+  * Fixed text color of nested code blocks inside links
+  * Fixed version selector to always use version title
+  * Fixed logo link when using versioning with instant loading
+
+mkdocs-material-7.0.5+insiders-2.3.0 (2021-03-13)
+
+  * Added support for back-to-top button
+
+mkdocs-material-7.0.5 (2021-03-07)
+
+  * Added extracopyright block to allow for custom copyright info
+  * Fixed evaluation of third-party scripts when using instant loading
+  * Fixed edge cases when using instant loading without directory URLs
+  * Fixed handling of version selector when using instant loading
+  * Fixed regression with header title not being updated correctly
+  * Fixed expanded sections not opening on first click (7.0.4 regression)
+
+mkdocs-material-7.0.4+insiders-2.2.1 (2021-03-04)
+
+  * Fixed #2382: Repository stats failing when no release tag is present
+
+mkdocs-material-7.0.4 (2021-03-04)
+
+  * Added Icelandic translations
+  * Fixed #2386: Section close requires two clicks (navigation expansion)
+  * Fixed console error when search is disabled (7.0.0 regression)
+  * Fixed localsearch integration (7.0.0 regression)
+
+mkdocs-material-7.0.3+insiders-2.2.0 (2021-02-28)
+
+  * Added support for code block annotations
+
+mkdocs-material-7.0.3+insiders-2.1.0 (2021-02-26)
+
+  * Added support for anchor tracking
+
+mkdocs-material-7.0.3 (2021-02-26)
+
+  * Fixed JavaScript errors in older browsers (target ES2020 -> ES2015)
+
+mkdocs-material-7.0.2 (2021-02-25)
+
+  * Fixed #2343: Invalid source map URLs for JS and CSS files
+  * Fixed #2347: Version selector missing when using versioning
+
+mkdocs-material-7.0.1+insiders-2.0.0 (2021-02-24)
+
+  * Migrated Insiders to the new architecture
+  * Swapped color palette toggle configuration
+
+mkdocs-material-7.0.1 (2021-02-24)
+
+  * Fixed #2334: Google Analytics triggers page view twice (7.0.0 regression)
+  * Fixed #2336: Details bleed into inline admonitions
+  * Fixed #2337: Images don't align correctly (7.0.0 regression)
+
+mkdocs-material-7.0.0 (2021-02-22)
+
+  * Added support for deploying multiple versions
+  * Added support for integrating a language selector
+  * Added support for rendering admonitions as inline blocks
+  * Rewrite of the underlying reactive architecture
+  * Removed Webpack in favor of reactive build strategy (-480 dependencies)
+  * Fixed keyboard navigation for code blocks after content tabs switch
+
+mkdocs-material-6.2.8 (2021-02-04)
+
+  * Updated Japanese and Polish translations
+  * Fixed #2261: Print dialog auto-closing when using instant loading
+
+mkdocs-material-6.2.7+insiders-1.17.0 (2021-01-31)
+
+  * Added support for section index pages
+
 mkdocs-material-6.2.7 (2021-01-31)
 
   * Fixed #2251: Updated Docker image to latest Alpine Linux

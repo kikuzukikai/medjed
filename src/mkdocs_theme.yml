@@ -1,4 +1,4 @@
-# Copyright (c) 2016-2020 Martin Donath <martin.donath@squidfunk.com>
+# Copyright (c) 2016-2021 Martin Donath <martin.donath@squidfunk.com>
 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to
@@ -19,7 +19,7 @@
 # IN THE SOFTWARE.
 
 # Language for theme localization
-language: ja
+language: en
 
 # Text direction (can be ltr or rtl), default: ltr
 direction:
@@ -43,17 +43,17 @@ palette:
 font:
 
   # Default font for text
-  text: Ubuntu
+  text: Roboto
 
   # Fixed-width font for code listings
-  code: Ubuntu Mono
+  code: Roboto Mono
 
 # From Material 5.x on, icons are inlined into the HTML and CSS as SVGs. Some
 # icons that are part of the HTML can be configured and replaced
 icon:
 
 # Favicon to be rendered
-favicon: assets/images/favicon.svg
+favicon: assets/images/favicon.png
 
 # Material includes the search in the header as a partial, not as a separate
 # template, so it's correct that search.html is missing

@@ -53,16 +53,29 @@ theme:
   # - navigation.instant
     - navigation.sections
     - navigation.tabs
+    - header.autohide
   palette:
     - scheme: default
-      primary: deep orange
-      accent: deep orange
+      media: "(prefers-color-scheme: light)"
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: ダークモードに切り替える
+      primary: teal
+      accent: teal
+    - scheme: slate
+      media: "(prefers-color-scheme: dark)"
+      toggle:
+        icon: material/toggle-switch
+        name: ライトモードに切り替える
+      primary: teal
+      accent: teal
   font:
     text: Ubuntu
     code: Ubuntu Mono
   favicon: assets/favicon.svg
   icon:
     logo: logo
+    repo: fontawesome/brands/git-alt
 
 # Plugins
 plugins:

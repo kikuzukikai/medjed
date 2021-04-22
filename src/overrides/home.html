@@ -1,5 +1,5 @@
 <!--
-  Copyright (c) 2016-2020 Martin Donath <martin.donath@squidfunk.com>
+  Copyright (c) 2016-2021 Martin Donath <martin.donath@squidfunk.com>
 
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files (the "Software"), to
@@ -60,14 +60,23 @@
   </style>
 
   <!-- Hero for landing page -->
-  <section class="tx-container">
+  <section class="mdx-container">
     <div class="md-grid md-typeset">
-      <div class="tx-hero">
+      <div class="mdx-hero">
+
+        <!-- Hero image -->
+        <div class="mdx-hero__image">
+          <img
+            src="assets/images/illustration.png"
+            alt=""
+            width="1659"
+            height="1200"
+            draggable="false"
+          >
+        </div>
 
         <!-- Hero content -->
-        <div class="tx-hero__content">
-          <h1>{{ config.site_description }}</h1>
-          <!--
+        <div class="mdx-hero__content">
           <h1>Technical documentation that just works</h1>
           <p>{{ config.site_description }}. Set up in 5 minutes.</p>
           <a
@@ -84,7 +93,6 @@
           >
             Get Insiders
           </a>
-          -->
         </div>
       </div>
     </div>
@@ -95,6 +103,4 @@
 {% block content %}{% endblock %}
 
 <!-- Application footer -->
-{% block footer %}
-  {% include "partials/footer.html" %}
-{% endblock %}
+{% block footer %}{% endblock %}
